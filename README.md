@@ -10,6 +10,6 @@ A custom-built framework to simulate advanced persistent threat behavior using p
 
 ## Technologies
 - Python 3
-- Flask
+- FastAPI
 - SQLite
-- Jinja2 (for Web UI)
+- Streamlit
